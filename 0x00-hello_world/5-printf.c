@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point into a c programme demonstrating the use of printf function.
+ * main - Entry point into a c programme using printf function.
  * Return: 0 (Success)
  */
 
